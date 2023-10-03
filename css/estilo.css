@@ -1,4 +1,20 @@
 *{
 
 	padding: 0px;
+	background-color: red;
+
+}
+
+h1{
+
+	color:green;
+}
+
+#container{
+   width: 100vw;
+   height: 100vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
