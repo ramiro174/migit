@@ -18,3 +18,8 @@ h1{
 	justify-content: center;
 	align-items: center;
 }
+
+.lista-menu{
+	list-style: none;
+	
+}
